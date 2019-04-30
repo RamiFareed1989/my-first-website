@@ -2,7 +2,7 @@
 
 Welcome!
 
-This is my very first website with some basic html and css codes and images and i'm looking forward
+This is my very first website with some basic html and css codes and images and I'm looking forward
 learn more and apply the learned knowledge!
 
 Code used:
